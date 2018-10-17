@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">Text</string>
+    <string name="app_name">SMS B17 Bomber</string>
     <string name="action_settings">Settings</string>
+    <string name="phone_number">Phone Number Here</string>
+    <string name="message_to_send">Message Here</string>
+    <string name="number_of_texts">Number of Messages</string>
+    <string name="clear_all">Clear All</string>
 </resources>
